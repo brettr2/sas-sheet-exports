@@ -1,0 +1,36 @@
+﻿Last Date Data Updated,2026-11-17,,,,Captured: 06:35,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Performance,,,Theta / Risk,,,Capital Efficiencies,,,Directional Exposure,,,Theta Projections,,,AUM Projections,,
+,,,,,,,,,,,,,,,,bwD,bwD+θ
+Firm AUM,"$6,629,809",,Real Theta,"$8,763",,IBKR Theta,"$23,207",,b/w Deltas,"1,630.59",,"$12,000",3.50%,"$166,522",SPX 7650 (0.92%),"$5,152,442 (8.30%)","$5,231,312 (9.95%)"
+Flows,$0.00,,Futures Theta,"$8,970",,Real Theta,"$8,763",,Gamma Dollars,"$-9,712",,"$10,000",3.12%,"$148,442",SPX 7600 (0.26%),"$5,070,913 (6.58%)","$5,149,782 (8.24%)"
+Start AUM,"$4,757,767",,Equity Theta,$350.69,,Theta/Net Liq,0.49%,,Notional Delta,"$11,940,850",,"$8,000",2.74%,"$130,363",SPX 7550 (-0.40%),"$4,989,383 (4.87%)","$5,068,253 (6.53%)"
+AUM after flows,"$4,757,767",,Total Positions,62,,Rlz P/L Goal,4.25%,"$202,205",Delta/Net Liq,254.39%,,"$7,500",2.65%,"$126,081",SPX 7500 (-1.06%),"$4,907,853 (3.15%)","$4,986,723 (4.81%)"
+Current AUM,"$4,647,986",,,,,Avg Daily Theta to Goal,54.87%,,VaR,"$474,648",,,,,SPX 7450 (-1.72%),"$4,826,324 (1.44%)","$4,905,193 (3.10%)"
+ref. SPX,"7,340.63",-3.16%,Realized P/L (day),$0.00,,Theta/Day Needed,"$15,972",,,,,,,,SPX 7400 (-2.38%),"$4,744,794 (-0.27%)","$4,823,664 (1.39%)"
+Returns (gross),-2.27%,,Unrealized P/L Chg,"$-115,472",,Total $ Needed for Goal,"$143,746",,Net Liquidation,"$4,693,978",,,,,SPX 7350 (-3.04%),"$4,663,264 (-1.99%)","$4,742,134 (-0.33%)"
+Returns (net of fees),-2.44%,,Exposure Fee,$-34.46,,Project Rlz Return,2.89%,,Maint Margin,"$1,914,476",,,,,SPX 7300 (-3.69%),"$4,581,735 (-3.70%)","$4,660,604 (-2.04%)"
+Realized P/L (gross),1.23%,"$58,459",Total Fees,$-34.46,,Realized to Date vs. Goal,28.91%,"$58,459",Margin Util,40.79%,,,,,SPX 7250 (-4.35%),"$4,500,205 (-5.41%)","$4,579,075 (-3.76%)"
+Month High,"$4,968,458",4.43%,MTD Perf Fee,"$-4,504",,Cadence,89%,,Initial Margin,"$2,191,772",,,,,SPX 7200 (-5.01%),"$4,418,675 (-7.13%)","$4,497,545 (-5.47%)"
+Month Low,"$4,608,287",-3.14%,,,,,,,Excess Liquidity,"$2,777,348",,,,,SPX 7150 (-5.67%),"$4,337,146 (-8.84%)","$4,416,015 (-7.18%)"
+Net MTD/YTD Alpha,0.72%,34.26%,Leverage,,,Theta/Net Liq levels,,,Available Funds,"$2,487,954",,,,,SPX 7100 (-6.33%),"$4,255,616 (-10.55%)","$4,334,486 (-8.90%)"
+YTD Returns (Gross/Net),41.50%,34.14%,Notional Leverage,499.90x,,0.40%,"$18,776",,Cushion,59.17%,,,,,SPX 7050 (-6.99%),"$4,174,086 (-12.27%)","$4,252,956 (-10.61%)"
+Mtd/YTD SPX,-3.16%,7.23%,VAR/Net Liq,0.10x,,0.35%,"$16,429",,,,,,,,SPX 7000 (-7.65%),"$4,092,557 (-13.98%)","$4,171,426 (-12.32%)"
+Mtd/YTD SPX TR,-3.10%,8.30%,,,,0.25%,"$11,735",,,,,,,,SPX 6950 (-8.31%),"$4,011,027 (-15.70%)","$4,089,897 (-14.04%)"
+,,,HWM,,,,,,,,,,,,SPX 6900 (-8.97%),"$3,929,497 (-17.41%)","$4,008,367 (-15.75%)"
+Margin Call,"$1,914,476",,HWM Value,"$4,735,287",,Total Trading Days,21,,,,,,,,SPX 6850 (-9.63%),"$3,847,968 (-19.12%)","$3,926,837 (-17.46%)"
+Drop Before MC,-6.10%,,Distance to HWM,-1.84%,,Trading Days Elapsed,12,,Daily (Prev Day MTM),,,,MTD MTM,,,,
+SPX Value at MC,"6,876",,Synthetic HWM,"$4,757,767",,Trading Days Remaining,9,,,% Ret,90% Trans,80-89%,,% Ret,90% Trans,80-89%,
+,,,,,,,,,Stocks,-0.58%,,,Stocks,-2.67%,,,
+,,,Monthly Goal,,,Rlz (gross) 1/4s - 4.25% target,,,Equity Opts,-0.02%,0.00%,0.00%,Equity Opts,-0.01%,0.00%,0.00%,
+,,,Monthly Goal %,2.50%,,11/06/2026 HIT,1.06%,$0.00,Spot Futures,-0.47%,,,Spot Futures,0.68%,,,
+,,,Monthly Goal $,"$118,944",,11/13/2026,2.12%,"$42,644",Futures Opts,-1.42%,0.00%,-0.17%,Futures Opts,-0.22%,0.00%,-0.17%,
+,,,Monthly AUM Goal,"$4,876,712",,11/23/2026,3.19%,"$93,195",Total,-2.49%,-2.49%,-2.32%,Total,-2.22%,-2.22%,-2.05%,
+,,,Monthly Goal Gross,"$4,909,861",,11/30/2026,4.25%,"$143,746",,,,,,,,,
+,,,GP $,"$23,789",,GP,,,,,,,,,,,
+,,,,,,Current Month,"$-4,504",,,,,,,,,,
+,,,YTD ATH (adj),"$4,968,458",-6.45%,Current Quarter,"$-5,839",,,,,,,,,,
+,,,,,,Crystallized,"$-93,915",,,,,,,,,,
+,,,,,,Last Redemption,"$-190,000",,,,,,,,,,
+,,,,,,Total Balance,$701.81,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
