@@ -1,21 +1,21 @@
 ﻿Intraday Snapshot (full account value)
 ,AUM,MTD %,YTD %,Init Margin,VAR,# Pos,Δ$ %,β-Δ %,Init Margin %,Γ %,Vega %,1-day 99.5% VaR %,As Of (ET),Rlz MTD,UnRlz,Cadence
-Personal (paper),$1.052M,-1.20%,-1.36%,$6.4k,$5.8k,4,18%,34%,1%,5%,0%,13%,2026-11-26 04:10,-$3.6k,-$3.1k,0%
-Trebuchet SMA (tsma),$1.988M,-0.38%,-0.60%,$87.8k,$39.2k,7,25%,57%,11%,29%,2%,49%,2026-11-26 04:10,-$7.3k,-$5.7k,0%
+Personal (paper),$1.052M,-1.19%,-1.36%,$6.4k,$5.9k,4,18%,36%,1%,6%,0%,13%,2026-11-26 12:52,-$3.6k,-$3.1k,0%
+Trebuchet SMA (tsma),$1.988M,-0.37%,-0.59%,$87.7k,$38.8k,7,25%,56%,11%,31%,2%,48%,2026-11-26 12:52,-$7.3k,-$5.5k,0%
 
 
 Capital Account (NAV ledger)
 ,Month,Beginning,Additions,Redemptions,Net Income,Ending,Month %,YTD %,Our Estimate,Gap,Source
-Personal (paper),2026-11,"$97,150",$0,$0,"-$11,726","$85,424",-12.07%,-14.58%,,,live estimate
+Personal (paper),2026-11,"$97,150",$0,$0,"-$11,686","$85,463",-12.03%,-14.54%,,,live estimate
 Personal (paper),2026-10,"$100,000",$0,$0,"-$2,850","$97,150",-2.85%,-2.85%,,,"estimate, month closed"
 
 ,Funding Notice,Room to Notice,Termination,Initial Amount,NLV As Of
-Personal (paper),"$50,000","$35,424","$10,000","$100,000",2026-11-26 02:02:46
-Trebuchet SMA (tsma),2026-11,"$293,335",$0,$0,"-$5,540","$287,795",-1.89%,-4.07%,,,live estimate
+Personal (paper),"$50,000","$35,463","$10,000","$100,000",2026-11-26 10:50:37
+Trebuchet SMA (tsma),2026-11,"$293,335",$0,$0,"-$5,298","$288,036",-1.81%,-3.99%,,,live estimate
 Trebuchet SMA (tsma),2026-10,$0,"$300,000",$0,"-$6,665","$293,335",-2.22%,-2.22%,"-$6,402",-$262,NAV
 
 ,Funding Notice,Room to Notice,Termination,Initial Amount,NLV As Of
-Trebuchet SMA (tsma),"$150,000","$137,795","$30,000","$300,000",2026-11-26 02:02:33
+Trebuchet SMA (tsma),"$150,000","$138,036","$30,000","$300,000",2026-11-26 10:50:27
 
 
 Monthly Statements (full account value)
@@ -26,5 +26,5 @@ Trebuchet SMA (tsma),$1.994M,-0.32%,-0.32%,$233.9k,$50.2k,8,118,$493.3k,18%,66%,
 
 Fund Economics
 ,NAV,Net Profit,HWM,Fee Rate,Potential Payout,Deposit,To Ramp,Capital Account,Distributed,As Of (ET)
-Personal (paper),$1.052M,$-14.6k,$1.067M,55.0%,$0,$100.0k,$100.0k,$85.4k,$0,2026-11-26 04:10
-Trebuchet SMA (tsma),$1.988M,$-11.9k,$2.000M,57.5%,$0,$300.0k,$100.0k,$287.8k,$0,2026-11-26 04:10
+Personal (paper),$1.052M,$-14.5k,$1.067M,55.0%,$0,$100.0k,$100.0k,$85.5k,$0,2026-11-26 12:52
+Trebuchet SMA (tsma),$1.988M,$-11.7k,$2.000M,57.5%,$0,$300.0k,$100.0k,$288.0k,$0,2026-11-26 12:52
