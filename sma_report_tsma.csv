@@ -1,21 +1,21 @@
 ﻿Intraday Snapshot (full account value)
 ,AUM,MTD %,YTD %,Init Margin,VAR,# Pos,Δ$ %,β-Δ %,Init Margin %,Γ %,Vega %,1-day 99.5% VaR %,As Of (ET),Rlz MTD,UnRlz,Cadence
-Trebuchet SMA (tsma),$1.988M,-0.37%,-0.59%,$89.5k,$38.8k,7,25%,70%,11%,27%,3%,49%,2026-11-26 13:51,-$7.3k,-$5.6k,0%
+Trebuchet SMA (tsma),$1.992M,-0.16%,-0.38%,$60.8k,$17.6k,10,37%,2%,8%,19%,2%,22%,2026-11-27 04:10,-$7.1k,-$1.5k,3%
 
 
 Capital Account (NAV ledger)
 ,Month,Beginning,Additions,Redemptions,Net Income,Ending,Month %,YTD %,Our Estimate,Gap,Source
-Trebuchet SMA (tsma),2026-11,"$293,335",$0,$0,"-$5,391","$287,944",-1.84%,-4.02%,,,live estimate
+Trebuchet SMA (tsma),2026-11,"$293,335",$0,$0,"-$1,167","$292,168",-0.40%,-2.61%,,,live estimate
 Trebuchet SMA (tsma),2026-10,$0,"$300,000",$0,"-$6,665","$293,335",-2.22%,-2.22%,"-$6,402",-$262,NAV
 
 ,Funding Notice,Room to Notice,Termination,Initial Amount,NLV As Of
-Trebuchet SMA (tsma),"$150,000","$137,944","$30,000","$300,000",2026-11-26 11:50:24
+Trebuchet SMA (tsma),"$150,000","$142,168","$30,000","$300,000",2026-11-27 02:02:19
 
 
 Realized and Open P&L
 ,Period,Realized,Open,Total,Our Capital,Realized / Capital,Open / Capital,Total / Capital,Realized / Alloc,Open / Alloc,Total / Alloc
-Trebuchet SMA (tsma),This month,"-$6,063",$672,"-$5,391","$293,335",-2.07%,0.23%,-1.84%,-0.30%,0.03%,-0.27%
-Trebuchet SMA (tsma),Since start,"-$6,239","-$5,555","-$11,793","$300,000",-2.08%,-1.85%,-3.93%,-0.31%,-0.28%,-0.59%
+Trebuchet SMA (tsma),This month,"-$5,886","$4,719","-$1,167","$293,335",-2.01%,1.61%,-0.40%,-0.29%,0.24%,-0.06%
+Trebuchet SMA (tsma),Since start,"-$6,061","-$1,508","-$7,570","$300,000",-2.02%,-0.50%,-2.52%,-0.30%,-0.08%,-0.38%
 
 
 Monthly Distributions (Crystallized)
@@ -30,4 +30,4 @@ Trebuchet SMA (tsma),$1.994M,-0.32%,-0.32%,$233.9k,$50.2k,8,118,$493.3k,18%,66%,
 
 Fund Economics
 ,NAV,Net Profit,HWM,Fee Rate,Potential Payout,Deposit,To Ramp,Capital Account,Distributed,As Of (ET)
-Trebuchet SMA (tsma),$1.988M,$-11.8k,$2.000M,57.5%,$0,$300.0k,$100.0k,$287.9k,$0,2026-11-26 13:51
+Trebuchet SMA (tsma),$1.992M,$-7.6k,$2.000M,57.5%,$0,$300.0k,$100.0k,$292.2k,$0,2026-11-27 04:10
