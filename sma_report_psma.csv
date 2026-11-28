@@ -1,6 +1,6 @@
 ﻿Intraday Snapshot (full account value)
 ,AUM,MTD %,YTD %,Init Margin,VAR,# Pos,Δ$ %,β-Δ %,Init Margin %,Γ %,Vega %,1-day 99.5% VaR %,As Of (ET),Rlz MTD,UnRlz,Cadence
-Personal (paper),$1.054M,-1.01%,-1.17%,$8.4k,$8.0k,4,18%,35%,2%,6%,0%,18%,2026-11-27 13:53,-$3.6k,-$1.1k,0%
+Personal (paper),$1.054M,-1.01%,-1.17%,$8.4k,$8.0k,4,18%,35%,2%,6%,0%,18%,2026-11-28 09:46,-$3.6k,-$1.1k,0%
 
 
 Capital Account (NAV ledger)
@@ -9,7 +9,7 @@ Personal (paper),2026-11,"$97,150",$0,$0,"-$9,688","-$11,881",-12.23%,"$87,462",
 Personal (paper),2026-10,"$100,000",$0,$0,"-$2,850",$453,0.45%,"$97,150",-2.85%,-2.85%,,,"estimate, month closed"
 
 ,Funding Notice,Room to Notice,Termination,Initial Amount,NLV As Of
-Personal (paper),"$50,000","$37,462","$10,000","$100,000",2026-11-27 11:52:36
+Personal (paper),"$50,000","$37,462","$10,000","$100,000",2026-11-27 14:52:33
 
 
 Net and Realized Return
@@ -30,4 +30,4 @@ Personal (paper),$1.064M,-0.26%,-0.26%,$80.7k,$27.1k,30,181,$131.4k,47%,69%,18%,
 
 Fund Economics
 ,NAV,Net Profit,HWM,Fee Rate,Potential Payout,Deposit,To Ramp,Capital Account,Distributed,As Of (ET)
-Personal (paper),$1.054M,$-12.5k,$1.067M,55.0%,$0,$100.0k,$100.0k,$87.5k,$0,2026-11-27 13:53
+Personal (paper),$1.054M,$-12.5k,$1.067M,55.0%,$0,$100.0k,$100.0k,$87.5k,$0,2026-11-28 09:46
