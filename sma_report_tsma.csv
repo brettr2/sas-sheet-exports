@@ -1,6 +1,6 @@
 ﻿Intraday Snapshot (full account value)
 ,AUM,MTD %,YTD %,Init Margin,VAR,# Pos,Δ$ %,β-Δ %,Init Margin %,Γ %,Vega %,1-day 99.5% VaR %,As Of (ET),Rlz MTD,UnRlz,Cadence
-Trebuchet SMA (tsma),$1.994M,-0.10%,-0.32%,$60.2k,$20.8k,10,37%,33%,8%,20%,2%,26%,2026-11-27 13:53,-$7.1k,-$338,3%
+Trebuchet SMA (tsma),$1.994M,-0.10%,-0.32%,$60.2k,$20.9k,10,37%,33%,8%,20%,2%,26%,2026-11-28 09:46,-$5.9k,-$338,3%
 
 
 Capital Account (NAV ledger)
@@ -9,7 +9,7 @@ Trebuchet SMA (tsma),2026-11,"$293,335",$0,$0,$3,"-$5,886",-2.01%,"$293,338",0.0
 Trebuchet SMA (tsma),2026-10,$0,"$300,000",$0,"-$6,665",-$176,-0.06%,"$293,335",-2.22%,-2.22%,"-$6,402",-$262,NAV
 
 ,Funding Notice,Room to Notice,Termination,Initial Amount,NLV As Of
-Trebuchet SMA (tsma),"$150,000","$143,338","$30,000","$300,000",2026-11-27 11:52:24
+Trebuchet SMA (tsma),"$150,000","$143,338","$30,000","$300,000",2026-11-27 14:52:20
 
 
 Net and Realized Return
@@ -30,4 +30,4 @@ Trebuchet SMA (tsma),$1.994M,-0.32%,-0.32%,$233.9k,$50.2k,8,118,$493.3k,18%,66%,
 
 Fund Economics
 ,NAV,Net Profit,HWM,Fee Rate,Potential Payout,Deposit,To Ramp,Capital Account,Distributed,As Of (ET)
-Trebuchet SMA (tsma),$1.994M,$-6.4k,$2.000M,57.5%,$0,$300.0k,$100.0k,$293.3k,$0,2026-11-27 13:53
+Trebuchet SMA (tsma),$1.994M,$-6.4k,$2.000M,57.5%,$0,$300.0k,$100.0k,$293.3k,$0,2026-11-28 09:46
